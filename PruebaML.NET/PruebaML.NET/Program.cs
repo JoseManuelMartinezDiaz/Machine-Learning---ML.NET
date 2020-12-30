@@ -34,6 +34,8 @@ namespace PruebaML.NET
 
       Console.WriteLine($"Se añade esta linea de codigo para comprobar el funcionamiento de github en visual studio");
 
+      Console.WriteLine($"Se añade esta linea de codigo para comprobar el funcionamiento de github en visual studio");
+
     }
 
   }
