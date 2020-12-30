@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zhKYUjfyvh26nxlHywjavr731tMuiluxAbU/ImJ/lyRac0zTmpzgfKOb4X8OgMOB/j3XmxoQLM1qrlmzGK/2rg==",
+  "dgSpecHash": "ZnD5UUHErX4W/GMYsAFV7jgfTz9a8BtfPGAWneqbryjWXVuv9PR8oBlF4MeIf+kJnAXwExgx9NvT/ai1qhVAKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jose Manuel\\source\\repos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
+  "projectFilePath": "C:\\Users\\Jose Manuel\\source\\proyectos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Manuel\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\Jose Manuel\\.nuget\\packages\\microsoft.ml\\1.5.4\\microsoft.ml.1.5.4.nupkg.sha512",

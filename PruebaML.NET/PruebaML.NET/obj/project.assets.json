@@ -5620,11 +5620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Manuel\\source\\repos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
+      "projectUniqueName": "C:\\Users\\Jose Manuel\\source\\proyectos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
       "projectName": "PruebaML.NET",
-      "projectPath": "C:\\Users\\Jose Manuel\\source\\repos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
+      "projectPath": "C:\\Users\\Jose Manuel\\source\\proyectos\\PruebaML.NET\\PruebaML.NET\\PruebaML.NET.csproj",
       "packagesPath": "C:\\Users\\Jose Manuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Manuel\\source\\repos\\PruebaML.NET\\PruebaML.NET\\obj\\",
+      "outputPath": "C:\\Users\\Jose Manuel\\source\\proyectos\\PruebaML.NET\\PruebaML.NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
